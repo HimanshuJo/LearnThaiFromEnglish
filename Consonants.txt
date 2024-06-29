@@ -1,21 +1,31 @@
-Low Consonants:
+Middle Class Consonants:
 
-ม (mo ma)
+ก (gaw kai)
 
-น (no noo)
-
-ง (ngaw ngu)
-
-ย (yo yak)
-
-ว (wo waen)
+จ (jho chan)
 
 -------
 
-Middle Class Consonants:
+High-Class Consonants:
 
-ก่ (K̀)
+ข (kho khai)
 
-ด (Dĕk)
+ฃ (kho khuat)
 
-บ (Bımị̂)
+ฉ (cho ching)
+
+-------
+
+Low-Class Consonants:
+
+ค (kho khwai)
+
+ฅ (kho khon)
+
+ง (ngo ngu)
+
+ฆ (kho ra-khang)
+
+ช (cho chang)
+
+ซ (so so) 
