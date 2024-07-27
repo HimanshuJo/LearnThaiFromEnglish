@@ -1,0 +1,164 @@
+"ไม่ถูก" (mai thook) -> Not correct
+
+	ไม่ (mai) - Means "not"
+
+		ม (mo ma)
+			
+			Pronunciation: "m" as in "man"
+			
+			Description: A standard 'm' sound.
+		
+		ไ (mai ma-laai)
+			
+			Pronunciation: This vowel makes the "ai" sound as in "my"
+			
+			Description: The vowel is written before the consonant it modifies but pronounced after it.
+		
+	ถูก (thook) - Means "correct" or "right"
+
+		ถ (tho thung)
+			
+			Pronunciation: "th" (aspirated) as in "Thailand"
+			
+			Description: A 't' sound with a strong burst of air.
+		
+		ู (sara uu)
+			
+			Pronunciation: "oo" as in "boot"
+			
+			Description: A long vowel sound, pronounced after the consonant.
+		
+		ก (ko kai)
+			
+			Pronunciation: "k" (unaspirated) as in "skate"
+			
+			Description: The sound is similar to the English 'g' in "go" but without aspiration.
+	
+	-------
+
+	Detailed Breakdown:
+		
+		ม (mo ma):
+
+			Consonant, low class
+				
+			"m" sound
+				
+			Example: ม้า (maa) meaning "horse"
+		
+		ไ (mai ma-laai):
+
+			Vowel, placed before the consonant but pronounced after
+			"ai" sound
+				
+			Example: ไข่ (kai) meaning "egg"
+		
+		ถ (tho thung):
+
+			Consonant, high class
+			
+			"th" sound (aspirated)
+			
+			Example: ถุง (thung) meaning "bag"
+		
+		ู (sara uu):
+
+			Vowel
+			
+			"oo" sound
+			
+			Example: กู (guu) meaning "I" (informal and sometimes rude)
+		
+		ก (ko kai):
+
+			Consonant, middle class
+			
+			"k" sound (unaspirated)
+			
+			Example: กิน (gin) meaning "eat"
+
+-------
+
+"ไม่ได้" (mai dai) -> Can Not
+
+	ไม่ (mai) - Means "not" or "no"
+
+		ม (mo ma)
+		
+		Pronunciation: "m" as in "man"
+		
+		Description: A standard 'm' sound.
+
+	ไ (mai ma-laai)
+		
+		Pronunciation: This vowel makes the "ai" sound as in "my"
+		
+		Description: The vowel is written before the consonant it modifies but pronounced after it.
+
+	ได้ (dai) - Means "can" or "able to"
+
+		ด (do dek)
+			
+			Pronunciation: "d" as in "dog"
+			
+			Description: A standard 'd' sound.
+
+		ไ (mai ma-laai)
+			
+			Pronunciation: This vowel makes the "ai" sound as in "my"
+			
+			Description: The vowel is written before the consonant it modifies but pronounced after it.
+
+		้ (mai tho)
+			
+			Description: A tonal mark indicating the falling tone.
+
+	-------
+
+	Detailed Breakdown:
+
+		ม (mo ma)
+
+			Consonant, low class
+		
+			"m" sound
+		
+			Example: ม้า (maa) meaning "horse"
+
+		ไ (mai ma-laai)
+
+			Vowel, placed before the consonant but pronounced after
+			
+			"ai" sound
+			
+			Example: ไข่ (kai) meaning "egg"
+
+		ด (do dek)
+
+			Consonant, middle class
+			
+			"d" sound
+			
+			Example: เด็ก (dek) meaning "child"
+
+		้ (mai tho)
+
+			Tone mark
+			
+			Makes the syllable have a falling tone
+			
+			Example: ใช้ (chai) meaning "use"
+
+	Putting it all together, "ไม่ได้" (mai dai) combines "ไม่" (not) and "ได้" (able to), to form the meaning of "can't" or "not able to." The expression is used to indicate the inability to do something.
+
+	-------
+
+	Example Sentence:
+		
+		ฉันทำไม่ได้ (Chan tham mai dai) - "I can't do it."
+		
+		ฉัน (chan) - I
+		
+		ทำ (tham) - do
+		
+		ไม่ได้ (mai dai) - can't
