@@ -1,0 +1,23 @@
+sip-song
+twelve
+
+sip-sii
+fourteen
+
+sii-sip
+forty
+
+yii-sip-haa
+twenty-five
+
+kun aa-yu sii-sip bpii
+You are forty years old
+
+dek-puu-ying aa-yu sip-sii bpii
+The girl is fourteen years old
+
+chan aa-yu yii-sip-haa bpii
+I am twenty-five years old
+
+dek-puu-chaii aa-yu sip-song bpii
+The boy is twelve years old

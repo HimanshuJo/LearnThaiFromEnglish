@@ -1,0 +1,29 @@
+puu-chaai
+A man
+
+puu-ying
+A woman
+
+dek-puu-ying
+A girl
+
+toe bpen dek-puu-ying
+She is a girl
+
+dek-puu-ying
+A girl
+
+dek-puu-chaai
+A boy
+
+kao bpen dek-puu-chaai
+He is a boy
+
+toe bpen dek-puu-ying
+She is a girl
+
+chan bpen puu-ying
+I am a woman
+
+kun bpen puu-chaai
+You are a man

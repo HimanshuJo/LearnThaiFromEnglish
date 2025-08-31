@@ -1,0 +1,49 @@
+หนังสือ
+nǎng-sǔe
+book
+
+กาแฟ
+gaa-fae
+coffee
+
+หนังสือพิมพ์
+nǎng-sǔe-pim
+newspaper
+
+อาหาร ญี่ปุ่น
+aa-hǎan yîi-bpùn
+Japanese food
+
+กาแฟ ร้อน
+gaa-fae rón
+Hot coffee
+
+หนังสือ ภาษา จีน
+nǎng-sǔe paa-sǎa jiin
+A Chinese book
+
+หนังสือพิมพ์ ภาษา อังกฤษ
+nǎng-sǔe-pim paa-sǎa ang-grìt
+An English newspaper
+
+หนังสือ ภาษา จีน
+nǎng-sǔe paa-sǎa jiin
+A chinese book
+
+-------
+
+เด็กผู้หญิง ทำ อะไร คะ
+dèk-pûu-yǐng tam à-rai ká
+What is the girl doing?
+
+เธอ อ่าน หนังสือ ครับ
+toe àan nǎng-sǔe kráp
+She is reading a book.
+
+เด็กผู้ชาย ทำ อะไร คะ
+dèk-pûu-chaai tam à-rai ká
+What is the boy doing?
+
+เขา กิน อาหารญี่ปุ่น ครับ
+kǎo gin aa-hǎan-yîi-bpùn kráp
+He is eating Japanese food.

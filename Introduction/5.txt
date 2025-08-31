@@ -1,0 +1,35 @@
+ang-grit
+English
+
+chan puut paa-saa ang-grit
+I speak English
+
+yoe-ra-man
+German
+
+kun puut paa-saa yoe-ra-man
+You speak German
+
+jiin
+Chinese
+
+kao puut paa-saa jiin
+He speaks Chinese
+
+yii-bpun
+Japanese
+
+toe puut paa-saa yii-bpun
+She speaks Japanese
+
+chan puut paa-saa ang-grit
+I speak English
+
+kun puut paa-saa yoe-ra-man
+You speak German
+
+kao puut paa-saa jiin
+He speaks Chinese
+
+chan puut paa-saa ang-grit
+I speak English
