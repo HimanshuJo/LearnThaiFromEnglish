@@ -1,0 +1,691 @@
+ฉัน กิน แอปเปิล สาม ลูก
+chǎn gin áep-bpôen sǎam lûuk
+“I eat three apples.”
+
+ฉัน (chǎn) = I (informal, mostly female speakers)
+
+	ฉ (cho ching) → high-class consonant, initial “ch”.
+
+	ั (sara a) → short “a”.
+
+	น (no nu) → final “n”.
+
+กิน (gin) = to eat
+
+	ก (ko kai) → mid-class consonant, “g/k”.
+
+	ิ (sara i) → short “i”.
+
+	น (no nu) → final “n”.
+
+แอปเปิล (áep-bpôen) = apple (loanword)
+
+	แ (sara ae) → vowel “ae”.
+
+	อ (o ang) → vowel holder.
+
+	ป (po pla) → unaspirated “bp”.
+
+	เป again with cluster → spelling adaptation.
+
+	ิ / ล / ์ final parts → the ์ cancels a consonant sound.
+
+สาม (sǎam) = three
+
+	ส (so suea) → “s”.
+
+	า (sara aa) → long “aa”.
+
+	ม (mo ma) → final “m”.
+
+ลูก (lûuk) = classifier for round fruits, balls, eggs, etc.
+
+	ล (lo ling) → “l”.
+
+	ู (sara uu) → long “uu”.
+
+	ก (ko kai) → final “k”.
+
+	้ (mai tho) → falling tone mark.
+
+------- ******* -------
+
+ผู้ชาย ดื่ม น้ำ สอง แก้ว
+pûu-chaai dùem náam sǒng gâeo
+“The man drinks two glasses of water.”
+
+ผู้ชาย (phûu-chaai) = man
+
+	ผ (pho phueng) → high-class consonant, “ph/p”.
+
+	้ (mai tho tone mark) → falling tone.
+
+	ู (sara uu) → long vowel uu.
+
+ชาย (chaai) = male
+
+	ช (cho chang) → low-class consonant, “ch”.
+
+	า (sara aa) → long vowel aa.
+
+	ย (yo yak) → final y / lengthens vowel.
+
+ดื่ม (dùem) = to drink
+
+	ด (do dek) → mid-class consonant, “d”.
+
+	ื (sara ue) → long ue vowel.
+
+	่ (mai ek tone mark) → low tone.
+
+	ม (mo ma) → final consonant m.
+
+น้ำ (náam) = water
+
+	น (no nu) → consonant “n”.
+
+	้ (mai tho tone mark) → falling tone.
+
+	า (sara aa) → long aa vowel.
+
+	ม (mo ma) → final m.
+
+สอง (sǒng) = two
+
+	ส (so suea) → high-class consonant, “s”.
+
+	อ (o ang) → vowel support.
+
+	ง (ngo ngu) → final consonant ng.
+
+	็ (mai taikhu) sometimes used but not here.
+
+แก้ว (gâeo) = glass (classifier for glasses/cups)
+
+	ก (ko kai) → mid-class consonant, “g/k”.
+
+	แ (sara ae) → vowel ae.
+
+	้ (mai tho tone mark) → falling tone.
+
+	ว (wo waen) → glide/w semivowel.
+
+------- ******* -------
+
+ซุป ราคา สิบ ดอลลาร์
+súp raa-kaa sìp don-lâa
+“The soup costs ten dollars.”
+
+ซุป (súp) = soup
+
+	ซ (so so) → low-class consonant, “s”.
+
+	ุ (sara u) → short vowel u.
+
+	ป (po pla) → final consonant p.
+
+	◌́ (mai tho tone mark) → high tone.
+
+ราคา (raa-kaa) = cost / price
+
+	ร (ro ruea) → consonant “r”.
+
+	า (sara aa) → long aa.
+
+	ค (kho khwai) → aspirated kh.
+
+	า (sara aa) → long aa.
+
+สิบ (sìp) = ten
+
+	ส (so suea) → consonant “s”.
+
+	ิ (sara i) → short vowel i.
+
+	บ (bo baimai) → final consonant p.
+
+	่ (mai ek tone mark) → low tone.
+
+ดอลลาร์ (don-lâa) = dollar (loanword)
+
+	ด (do dek) → consonant “d”.
+
+	อ (o ang) → vowel holder “o”.
+
+	ล (lo ling) → “l”.
+
+	ล again → “l” (loanword duplication).
+
+	า (sara aa) → long aa.
+
+	ร์ (ro ruea + ์) → silent marker, keeps foreign spelling.
+
+------- ******* -------
+
+เขา เป็น พี่ชาย ของเธอ
+kǎo bpen pîi-chaai kǒng-toe
+He is her older brother.
+
+เขา (kháo) = he / she
+
+	ข (kho khai) → high-class consonant, “kh”.
+
+	เ (sara e) → long vowel “ao”.
+
+	า (sara aa) → part of the vowel combination.
+
+	ว (wo waen) → final “w” → helps form “ao” sound.
+
+เป็น (bpen) = is / to be
+
+	ป (po pla) → unaspirated “bp”.
+
+	เ (sara e) → vowel “e”.
+
+	็ (mai taikhu) → short vowel marker.
+
+	น (no nu) → final “n”.
+
+พี่ชาย (phîi-chaai) = elder brother
+
+	พ (pho phan) → aspirated “ph”.
+
+	ี่ (mai ek tone mark + sara ii) → falling tone, long vowel “ii”.
+
+	ช (cho chang) → “ch”.
+
+	า (sara aa) → long “aa”.
+
+	ย (yo yak) → lengthens to “ai”.
+
+ของ (kǒng) = of / belonging to
+
+	ข (kho khai) → high-class consonant, “kh”.
+
+	อ (o ang) → vowel support, gives “o”.
+
+	ง (ngo ngu) → final “ng”.
+
+	◌้ (mai tho tone mark) → rising tone.
+
+เธอ (thoe) = she / her
+
+	ธ (tho thong) → aspirated “th”.
+
+	เ (sara e) → vowel “oe”.
+
+	อ (o ang) → vowel support.
+
+------- ******* -------
+
+พวกเรา ซื้อ หนังสือภาษาอังกฤษ สี่ เล่ม
+pûak-rao súe nǎng-sǔe paa-sǎa-ang-grìt sìi lêem
+We buy four English books.
+
+พวกเรา (phûak-rao) = we / us
+
+	พ (pho phan) → aspirated “ph”.
+
+	ว (wo waen) → vowel/glide support.
+
+	ก (ko kai) → final consonant for พวก (phûak).
+
+	ร (ro ruea) → “r” in เรา (rao).
+
+	า (sara aa) → long vowel.
+
+	ว (wo waen) → part of vowel glide.
+
+ซื้อ (súe) = buy
+
+	ส (so suea) → “s”.
+
+	ื (sara ue) → long vowel ue.
+
+	อ (o ang) → vowel support.
+
+หนังสือภาษาอังกฤษ (nǎng-sǔe paa-sǎa-ang-grìt) = English books
+
+	หนังสือ (nǎng-sǔe) = book
+
+	ภาษาอังกฤษ (paa-sǎa-ang-grìt) = English language
+
+		ภาษา (paa-sǎa) = language
+
+			พ (pho phan) → “ph”.
+
+			า (sara aa) → long vowel.
+
+			ส (so suea) → “s”.
+
+			า (sara aa) → long vowel.
+
+			Tone: mid + rising.
+
+		อังกฤษ (ang-grìt) = English
+
+			Loanword from English, adapted to Thai spelling.
+
+			อ (o ang) → initial vowel sound “a”.
+
+			ง (ngo ngu) → final “ng”.
+
+			ก (ko kai) → “g/k”.
+
+			ร (ro ruea) → “r”.
+
+			ิ (sara i) → short vowel.
+
+			ต (to tao) → final “t”.
+
+			Tone: falling on the last syllable → grìt.
+
+	สี่ (sìi) = four
+
+		ส (so suea) → high-class consonant “s”.
+
+		ี (sara ii) → long vowel ii.
+
+		◌่ (mai ek) → low tone.
+
+	เล่ม (lêem) = classifier for books
+
+------- ******* -------
+
+พวกเขา กิน แอปเปิล เจ็ด ลูก
+(phûak-khǎo gin áep-bpôen jèt lûuk)
+“They eat seven apples.”
+
+พวกเขา (phûak-khǎo) = they
+
+	พ (pho phan) → aspirated “ph.”
+
+	ว (wo waen) → part of vowel glide.
+
+	ก (ko kai) → final consonant of พวก (phûak).
+
+	ข (kho khai) → initial consonant of เขา (khǎo).
+
+	เ (sara e) + า (sara aa) → vowel “ao.”
+
+	ว (wo waen) → part of the vowel glide.
+
+กิน (gin) = to eat
+
+	ก (ko kai) → “g/k.”
+
+	ิ (sara i) → short vowel “i.”
+
+	น (no nu) → final consonant “n.”
+
+แอปเปิล (áep-bpôen) = apple
+
+	English loanword, adapted to Thai script.
+
+	แอป → initial syllable “áep”
+
+	เปิล → second syllable “bpôen” (falling tone).
+
+เจ็ด (jèt) = seven
+
+	จ (cho chan) → “j/ch.”
+
+	เ (sara e) → part of vowel.
+
+	ด (do dek) → final consonant “d.”
+
+	◌่ (mai ek) → low tone.
+
+ลูก (lûuk) = classifier for round objects / fruits
+
+	ล (lo ling) → “l.”
+
+	ู (sara uu) → long vowel.
+
+	ก (ko kai) → final “k.”
+
+	◌้ (mai tho) → falling tone.
+
+------- ******* -------
+
+นี่ คือ พ่อ ของฉัน
+(nîi khue pô kǒng-chǎn)
+“This is my father.”
+
+นี่ (nîi) = this
+
+	น (no nu) → “n.”
+
+	ี (sara ii) → long vowel “ii.”
+
+คือ (khue) = is / to be
+
+	ค (kho khwai) → low-class consonant, “kh.”
+
+	ื (sara ue) → long vowel “ue.”
+
+	อ (o ang) → vowel support.
+
+พ่อ (pô) = father
+
+	พ (pho phan) → aspirated “ph.”
+
+	้ (mai tho tone mark) → falling tone.
+
+	อ (o ang) → vowel support.
+
+ของ (kǒng) = of / belonging to
+
+	ข (kho khai) → high-class consonant, “kh.”
+
+	อ (o ang) → vowel support.
+
+	ง (ngo ngu) → final consonant “ng.”
+
+	◌้ (mai tho tone mark) → rising tone.
+
+ฉัน (chǎn) = I / my (female speaker)
+
+	ฉ (cho ching) → high-class consonant, “ch.”
+
+	ั (sara a) → short vowel “a.”
+
+	น (no nu) → final consonant “n.”
+
+------- ******* -------
+
+นั่น คือ ลูกสาว ของคุณ
+(nân khue lûuk-sǎao kǒng-kun)
+“That is your daughter.”
+
+นั่น (nân) = that
+
+	น (no nu) → consonant “n.”
+
+	ั (sara a) → short vowel “a.”
+
+	่ (mai ek tone mark) → low tone.
+
+	น (no nu) → final consonant “n.”
+
+คือ (khue) = is / to be
+
+ลูกสาว (lûuk-sǎao) = daughter
+
+	ลูก (lûuk) = child / classifier for small round objects
+
+		ล (lo ling) → “l.”
+
+		ู (sara uu) → long vowel uu.
+
+		ก (ko kai) → final “k.”
+
+		Tone: falling → lûuk.
+
+	สาว (sǎao) = female / young woman
+
+		ส (so suea) → “s.”
+
+		า (sara aa) → long vowel.
+
+		ว (wo waen) → final glide, lengthens vowel.
+
+		Tone: rising → sǎao.
+
+ของ (kǒng) = of / belonging to
+
+คุณ (khun) = you / your (polite)
+
+	ค (kho khwai) → consonant “kh.”
+
+	ุ (sara u) → short vowel u.
+
+	ณ (no nen) → final consonant “n.”
+
+------- ******* -------
+
+กาแฟ หนึ่ง แก้ว ราคา สาม ดอลลาร์
+gaa-fae nùeng gâeo raa-kaa sǎam don-lâa
+A cup of coffee costs three dollars.
+
+กาแฟ (gaa-fae) = coffee
+
+	ก (ko kai) → mid-class consonant, “g/k.”
+
+	า (sara aa) → long vowel aa.
+
+	แ (sara ae) → vowel “ae” for second syllable.
+
+	ฟ (fo fa) → final consonant “f” sound.
+
+	เ and – combine to produce vowel sounds.
+
+หนึ่ง (nùeng) = one
+
+	ห (ho hip) → tone carrier, silent.
+
+	เ (sara e) → part of vowel combination.
+
+	ห + น + vowel combination → nùeng.
+
+	ง (ngo ngu) → final consonant ng.
+
+แก้ว (gâeo) = glass / cup (classifier)
+
+	ก (ko kai) → initial “g/k.”
+
+	แ (sara ae) → vowel “ae.”
+
+	้ (mai tho) → falling tone.
+
+	ว (wo waen) → final glide.
+
+ราคา (raa-kaa) = to cost / price
+
+	ร (ro ruea) → “r.”
+
+	า (sara aa) → long vowel.
+
+	ค (kho khwai) → “kh.”
+
+	า (sara aa) → long vowel.
+
+สาม (sǎam) = three
+
+	ส (so suea) → high-class consonant, “s.”
+
+	า (sara aa) → long vowel.
+
+	ม (mo ma) → final consonant “m.”
+
+ดอลลาร์ (don-lâa) = dollar
+
+	Loanword adapted from English.
+
+	ด (do dek) → “d.”
+
+	อ (o ang) → vowel support.
+
+	ล (lo ling) → “l.”
+
+	ล again → duplication from loanword.
+
+	า (sara aa) → long vowel.
+
+	ร์ (ro ruea + silent marker) → retains English spelling.
+
+------- ******* -------
+
+ครอบครัว ของฉัน มี สี่ คน
+(krôp-kruua kǒng-chǎn mii sìi kon)
+“My family has four people.”
+
+ครอบครัว (krôp-kruua) = family
+
+	ค (kho khwai) → aspirated “kh.”
+
+	ร (ro ruea) → “r.”
+
+	อ (o ang) → vowel support.
+
+	บ (bo baimai) → “b” consonant.
+
+	ค + ร + อ + บ → first syllable “krôp.”
+
+	ครัว → “kruua”
+
+	ค (kh) + ร (r) + ว (w glide) + า (long a).
+
+ของ (kǒng) = of / belonging to
+
+ฉัน (chǎn) = I / my (female speaker)
+
+มี (mii) = to have
+
+	ม (mo ma) → “m.”
+
+	ี (sara ii) → long vowel.
+
+สี่ (sìi) = four
+
+คน (kon) = person / people
+
+	ค (kho khwai) → “kh/k.”
+
+	อ (o ang) → vowel support.
+
+	น (no nu) → final consonant “n.”
+
+------- ******* -------
+
+นิตยสาร ราคา ห้า ดอลลาร์
+(nít-dtà-yá-sǎan raa-kaa hâa don-lâa)
+“A magazine costs five dollars.”
+
+นิตยสาร (nít-dtà-yá-sǎan) = magazine
+
+	นิต (nít)
+
+		น (no nu) → “n.”
+
+		ิ (sara i) → short vowel i.
+
+		ต (to tao) → final consonant t.
+
+		Tone: high → nít.
+
+	ตยา (dtà-yá)
+
+		ต (to tao) → “t.”
+
+		ย (yo yak) → vowel glide “ya.”
+
+		Tone: falling on dtà, rising on yá.
+
+	สาร (sǎan)
+
+		ส (so suea) → “s.”
+
+		า (sara aa) → long vowel.
+
+		ร (ro ruea) → final consonant “n” sound in this context.
+
+		Tone: rising → sǎan.
+
+ราคา (raa-kaa) = to cost / price
+
+	ร (ro ruea) → “r.”
+
+	า (sara aa) → long vowel.
+
+	ค (kho khwai) → “kh.”
+
+	า (sara aa) → long vowel.
+
+ห้า (hâa) = five
+
+	ห (ho hip) → high-class consonant used as tone carrier.
+
+	า (sara aa) → long vowel.
+
+	้ (mai tho tone mark) → falling tone.
+
+ดอลลาร์ (don-lâa) = dollar
+
+	Loanword from English.
+
+	ด (do dek) → “d.”
+
+	อ (o ang) → vowel support.
+
+	ล (lo ling) → “l.”
+
+	ล again → for English spelling adaptation.
+
+	า (sara aa) → long vowel.
+
+	ร์ (ro ruea + silent marker) → keeps English spelling.
+
+------- ******* -------
+
+นั่น คือ ลูกชาย ของคุณ
+(nân khue lûuk-chaai kǒng-kun)
+“That is your son.”
+
+นั่น (nân) = that
+
+	น (no nu) → consonant “n.”
+
+	ั (sara a) → short vowel “a.”
+
+	่ (mai ek) → low tone marker.
+
+	น (no nu) → final consonant “n.”
+
+คือ (khue) = is / to be
+
+	ค (kho khwai) → low-class consonant “kh.”
+
+	ื (sara ue) → long vowel “ue.”
+
+	อ (o ang) → vowel support.
+
+ลูกชาย (lûuk-chaai) = son / male child
+
+	ลูก (lûuk) = child / classifier for small round objects
+
+		ล (lo ling) → “l.”
+
+		ู (sara uu) → long vowel uu.
+
+		ก (ko kai) → final “k.”
+
+		Tone: falling → lûuk.
+
+	ชาย (chaai) = male / man
+
+		ช (cho chang) → “ch.”
+
+		า (sara aa) → long vowel.
+
+		ย (yo yak) → final glide “ai.”
+
+		Tone: rising → chaai.
+
+	ของ (kǒng) = of / belonging to
+
+		ข (kho khai) → high-class consonant “kh.”
+
+		อ (o ang) → vowel support.
+
+		ง (ngo ngu) → final consonant “ng.”
+
+		◌้ (mai tho) → rising tone.
+
+	คุณ (khun) = you / your (polite)
+
+		ค (kho khwai) → “kh.”
+
+		ุ (sara u) → short vowel u.
+
+		ณ (no nen) → final consonant “n.”

@@ -1,0 +1,703 @@
+สาม
+sǎam
+three
+
+ส (so suea) – high-class consonant, “s”
+า (sara aa) – long vowel “aa”
+ม (mo ma) – low-class consonant, final “m” sound
+
+In Thai, numbers come before classifiers: 
+e.g., สาม เล่ม (three books), สาม ดอลลาร์ (three dollars).
+
+------- ******* -------
+
+ห้า
+hâa
+five
+
+ห (ho hip) – high-class consonant
+้ (mai tho) – falling tone mark
+า (sara aa) – long vowel “aa”
+
+------- ******* -------
+
+ราคา
+raa-kaa
+to cost
+
+ร (ro ruea) → “r”
+า (sara aa) → long “aa”
+ค (kho khwai) → aspirated “kh”
+า (sara aa) → long “aa”
+
+------- ******* -------
+
+ขนมปัง ราคา หนึ่ง ดอลลาร์
+kà-nǒm-bpang raa-kaa nùeng don-lâa
+The bread costs one dollar.
+
+ขนมปัง (kà-nom-bpang) = bread
+
+	ข (kho khai) → aspirated “kh”
+	น (no nu) → “n”
+	ม (mo ma) → “m”
+	ป (po pla) → “bp” (unaspirated p/b)
+	ัง (ang vowel with ง final) → “ang” nasal sound
+
+ราคา (raa-khaa) = price / costs
+
+	ร (ro ruea)
+
+		Low-class consonant
+
+		Sound: r (sometimes softened in casual speech).
+
+	า (sara aa)
+
+		Long vowel aa.
+
+	ค (kho khwai)
+
+		Low-class consonant
+
+		Sound: aspirated kh.
+
+หนึ่ง (nùeng) = one
+
+	ห (ho hip)
+
+		High-class consonant
+
+		Here: silent but tone carrier (used to set tone rules).
+
+	น (no nu)
+
+		Low-class consonant
+
+		Sound: n.
+
+	ึ (sara ue)
+
+		Short vowel ue (like German ü).
+
+	่ (mai ek tone mark)
+
+		Makes syllable low tone.
+
+	ง (ngo ngu)
+
+		Final consonant ng.
+
+ดอลลาร์ (dɔ̀ɔn-láa) = dollar
+
+	ด (do dek)
+
+		Mid-class consonant
+
+		Sound: d.
+
+	อ (o ang)
+
+		Can be vowel holder / stand-alone vowel.
+
+		Here gives “ɔ” sound.
+
+	ล (lo ling)
+
+		Consonant l.
+
+	า (sara aa) → long vowel aa.
+
+	ร์ (ro ruea + ์)
+
+		The “ร” is silenced by the mark ์ (thanthakhat).
+
+		This is typical in loanwords, to approximate foreign sounds.
+
+------- ******* -------
+
+กาแฟ หนึ่ง แก้ว ราคา สาม ดอลลาร์
+gaa-fae nùeng gâeo raa-kaa sǎam don-lâa
+A cup of coffee costs three dollars.
+
+กาแฟ (gaa-fae) = coffee
+
+	ก (ko kai)
+
+		Mid-class consonant
+
+		Sound: unaspirated “g/k” at the start
+
+	า (sara aa)
+
+		Long vowel “aa”
+
+	แ (sara ae)
+
+		Vowel marker
+
+		Pronounced “ae”
+
+		Placed before the consonant in writing but pronounced after
+
+	ฟ (fo fan)
+
+		Low-class consonant
+
+		Sound: “f”
+
+หนึ่ง (nùeng) = one
+
+	ห (ho hip) – silent here, high-class, tone carrier
+
+	น (no nu) – “n”
+
+	ึ (sara ue) – vowel “ue”
+
+	่ (mai ek) – tone mark, low tone
+
+	ง (ngo ngu) – final consonant “ng”
+
+แก้ว (gâeo) = cup, glass
+
+	ก (ko kai) – mid-class consonant, “g/k”
+
+	เ (sara e) – vowel “e”
+
+	้ (mai tho) – tone mark → falling tone
+
+	ว (wo waen) – “w” final
+
+ราคา (raa-khaa) = price / costs
+
+	ร (ro ruea) – low-class consonant, “r”
+
+	า (sara aa) – long vowel
+
+	ค (kho khwai) – low-class consonant, aspirated “kh”
+
+	า (sara aa) – long vowel
+
+สาม (sǎam) = three
+
+	ส (so suea) – high-class consonant, “s”
+
+	า (sara aa) – long vowel
+
+	ม (mo ma) – final consonant “m”
+
+	̌ ̌  (mai tri / tone rules) → rising tone
+
+ดอลลาร์ (dɔ̀ɔn-láa) = dollar
+
+	ด (do dek) – mid-class consonant, “d”
+
+	อ (o ang) – vowel placeholder for “ɔ”
+
+	ล (lo ling) – consonant “l”
+
+	ล – repeated, part of loanword spelling
+
+	า (sara aa) – long vowel
+
+	ร์ (ro ruea + ์) – silent, marks foreign spelling
+
+------- ******* -------
+
+นิตยสาร ราคา ห้า ดอลลาร์
+nít-dtà-yá-sǎan raa-kaa hâa don-lâa
+A magazine costs five dollars.
+
+นิตยสาร (nít-dtà-yá-sǎan) = magazine
+
+	นิ = (nít)
+
+	น (no nu) → initial n
+
+	ิ (sara i) → short i vowel
+
+	Tone mark ´ (mai ek) → high tone
+
+	Plus a final t sound from assimilation → nít
+
+	-------
+
+	ตย = (dtà)
+
+	ต (to tao) → mid-class consonant, unaspirated dt
+
+	ย (yo yak) → here working as a glide, supporting the short a vowel
+
+	Tone: low tone
+
+	-------
+
+	ยา = (yá)
+
+	ย (yo yak) → onset y
+
+	า (sara aa) → long aa vowel
+
+	Tone: high tone (due to accent mark)
+
+	-------
+
+	สาร = (sǎan)
+
+	ส (so suea) → high-class consonant, s
+
+	า (sara aa) → long aa
+
+	ร (ro ruea) → not pronounced in final position, but lengthens vowel historically
+
+	น (no nu) → final n
+
+	Tone: rising (due to high consonant + long vowel + tone mark)
+
+ราคา (raa-khaa) = price / to cost
+
+	ร (ro ruea) → r
+
+	า (sara aa) → long aa
+
+	ค (kho khwai) → aspirated kh
+
+	า (sara aa) → long aa
+
+ห้า (hâa) = five
+
+	ห (ho hip) → high-class consonant h
+
+	้ (mai tho) → falling tone mark
+
+	า (sara aa) → long aa
+
+ดอลลาร์ (don-lâa) = dollar
+
+	ด (do dek) → d
+
+	อ (o ang) → vowel placeholder, gives “o”
+
+	ล (lo ling) → l
+
+	ล (lo ling) → doubled spelling from English “dollar”
+
+	า (sara aa) → long aa vowel
+
+	ร์ (ro ruea + ์) → silent “r” marker, borrowed spelling convention
+
+------- ******* -------
+
+คุณ กำลัง อ่าน อะไร คะ
+kun gam-lang àan à-rai ká
+What are you reading?
+
+คุณ (khun) = “you” (polite)
+
+	ค (kho khwai) – low-class consonant
+
+		Sound: aspirated kh at the beginning of syllable
+
+	ุ (sara u) – short vowel u
+
+	ณ (no nen) → This is the actual final consonant in “คุณ”
+
+		Low-class consonant
+
+		Sound: n nasal
+
+		Different from น (no nu) which is also “n” but has slightly different origin/class and is used in other contexts
+
+กำลัง (gam-lang) = progressive marker “-ing”
+
+	ก (ko kai) – mid-class consonant, “g/k”
+
+	ำ (sara am) – vowel, nasalized “am”
+
+	ล (lo ling) – consonant “l”
+
+	ั (sara a) – short vowel “a”
+
+	ง (ngo ngu) – final consonant “ng”
+
+อ่าน (àan) = “read”
+
+	อ (o ang) – silent consonant for vowel support
+
+	่ (mai ek) – low tone mark
+
+	า (sara aa) – long vowel “aa”
+
+	น (no nu) – final consonant “n”
+
+อะไร (à-rai) = “what”
+
+	อ (o ang) – silent consonant / vowel support
+
+	ะ (sara a) – short vowel “a”
+
+	ร (ro ruea) – consonant “r”
+
+	ไ (sara ai mai malai) – vowel “ai” (pronounced after consonant)
+
+คะ (ká) = polite particle (female speaker, question)
+
+	ค (kho khwai) – low-class consonant, “kh”
+
+	ะ (sara a) – short vowel “a”
+
+		Tone: rising or high tone by default
+
+------- ******* -------
+
+ผม กำลัง อ่าน หนังสือ ครับ
+pǒm gam-lang àan nǎng-sǔe kráp
+I'm reading a book.
+
+ผม (pǒm) = I (male speaker)
+
+	ผ (pho phueng) – high-class consonant, ph/p sound.
+
+	◌โ (sara o, here written above but pronounced as o vowel).
+
+	ม (mo ma) – final consonant m.
+
+กำลัง (gam-lang) = progressive marker “-ing”
+
+	ก (ko kai) → onset g/k.
+
+	ำ (sara am) → vowel “am”.
+
+	ล (lo ling) → l.
+
+	ั (sara a) → short a vowel.
+
+	ง (ngo ngu) → final consonant ng.
+
+อ่าน (àan) = read
+
+	อ (o ang) → silent consonant carrier.
+
+	่ (mai ek) → low tone mark.
+
+	า (sara aa) → long vowel aa.
+
+	น (no nu) → final consonant n.
+
+หนังสือ (nǎng-sǔe) = book
+
+	หน: ห (ho hip) = high-class consonant, acts as tone carrier here + 
+	    น (no nu) = n.
+
+	ั = short a vowel.
+
+	→ หนั = nǎng (falling tone).
+
+	ง = final ng.
+
+	ส (so suea) = s.
+
+	ื (sara ue) = long ue vowel.
+
+	อ (o ang) = acts as silent support.
+
+ครับ (khráp) = polite particle (male)
+
+	ค (kho khwai) = kh.
+
+	ร (ro ruea) = r (rolled).
+
+	ั (sara a) = short a.
+
+	บ (bo baimai) = final consonant p.
+
+------- ******* -------
+
+หนังสือ เล่ม นี้ ราคา เท่าไหร่ คะ
+nǎng-sǔe lêem níi raa-kaa tâo-rài ká
+How much does this book cost?
+
+หนังสือ (nǎng-sǔe) = book
+
+	ห (ho hip) = high-class consonant, acts as silent tone carrier.
+
+	น (no nu) = n.
+
+	ั (sara a) = short a.
+
+	ง (ngo ngu) = final ng.
+	→ หนัง (nǎng), rising tone.
+
+	ส (so suea) = s.
+
+	ื (sara ue) = long ue vowel.
+
+	อ (o ang) = silent vowel holder.
+	→ สือ (sǔe), rising tone.
+
+เล่ม (lêem) = classifier for books
+
+	ล (lo ling) = l.
+
+	เ (sara e) = ee vowel.
+
+	่ (mai ek) = tone mark → low tone.
+
+	ม (mo ma) = final consonant m.
+
+นี้ (níi) = this
+
+	น (no nu) = n.
+
+	ี (sara ii) = long ii.
+
+	้ (mai tho) = tone mark → falling tone.
+
+ราคา (raa-khaa) = price / to cost
+
+	ร (ro ruea) = r.
+
+	า (sara aa) = long aa.
+
+	ค (kho khwai) = aspirated kh.
+
+	า (sara aa) = long aa.
+
+เท่าไหร่ (tâo-rài) = how much
+
+	เ (sara e) + ท (tho thahan) = thao.
+
+	่ (mai ek) = falling tone → tâo.
+
+	ไ (sara ai mai malai) = ai vowel.
+
+	ห (ho hip) = silent tone carrier.
+
+	ร (ro ruea) = r.
+
+	่ (mai ek) = low tone.
+
+	ย (yo yak) = final i/y.
+	→ ไหร่ (rài).
+
+คะ (ká) = polite particle (female, question)
+
+	ค (kho khwai) = kh.
+
+	ะ (sara a) = short a.
+
+	Tone: high/rising tone in spoken Thai.
+
+------- ******* -------
+
+หนังสือ เล่ม นี้ ราคา สิบ ดอลลาร์ ครับ
+nǎng-sǔe lêm níi raa-kaa sìp don-lâa kráp
+It costs ten dollars.
+
+หนังสือ (nǎng-sǔe) = book
+
+	ห (ho hip) = high-class consonant, silent but acts as tone carrier.
+
+	น (no nu) = n.
+
+	ั (sara a) = short vowel a.
+
+	ง (ngo ngu) = final consonant ng.
+	→ หนัง (nǎng), rising tone.
+
+	ส (so suea) = s.
+
+	ื (sara ue) = long ue vowel.
+
+	อ (o ang) = vowel holder.
+	→ สือ (sǔe), rising tone.
+
+เล่ม (lêem) = classifier for books
+
+	ล (lo ling) = l.
+
+	เ (sara e) = vowel ee.
+
+	่ (mai ek) = tone mark → low tone.
+
+	ม (mo ma) = final consonant m.
+
+นี้ (níi) = this
+
+	น (no nu) = n.
+
+	ี (sara ii) = long ii vowel.
+
+	้ (mai tho) = tone mark → falling/high tone.
+
+ราคา (raa-khaa) = price / costs
+
+	ร (ro ruea) = r.
+
+	า (sara aa) = long vowel.
+
+	ค (kho khwai) = aspirated kh.
+
+	า (sara aa) = long vowel.
+
+สิบ (sìp) = ten
+
+	ส (so suea) = s.
+
+	ิ (sara i) = short vowel i.
+
+	บ (bo baimai) = final consonant p.
+
+	่ (mai ek) = tone mark → low tone.
+
+ดอลลาร์ (don-lâa) = dollar
+
+	ด (do dek) = d.
+
+	อ (o ang) = vowel support, o.
+
+	ล (lo ling) = l.
+
+	ล (lo ling) again (borrowed spelling).
+
+	า (sara aa) = long vowel.
+
+	ร์ (ro ruea + ์) = silent marker for loanword spelling.
+
+ครับ (khráp) = polite particle (male)
+
+	ค (kho khwai) = kh.
+
+	ร (ro ruea) = r.
+
+	ั (sara a) = short a.
+
+	บ (bo baimai) = final consonant p.
+
+------- ******* -------
+
+คุณ มี หนังสือ กี่ เล่ม คะ
+kun mii nǎng-sǔe gìi lêem ká
+How many books do you have?
+
+คุณ (khun) = you (polite)
+
+	ค (kho khwai) → low-class consonant, “kh” sound.
+
+	ุ (sara u) → short vowel “u”, written below.
+
+	ณ (no nen) → low-class consonant, final “n” sound.
+
+มี (mii) = to have
+
+	ม (mo ma) → consonant “m”.
+
+	ี (sara ii) → long “ii” vowel.
+
+หนังสือ (nǎng-sǔe) = book
+
+	ห (ho hip) → high-class consonant, tone carrier (not pronounced here).
+
+	น (no nu) → initial consonant “n”.
+
+	ั (sara a) → short “a”.
+
+	ง (ngo ngu) → final consonant “ng”.
+	→ หนัง (nǎng), rising tone.
+
+	ส (so suea) → consonant “s”.
+
+	ื (sara ue) → long vowel “ue”.
+
+	อ (o ang) → vowel support.
+	→ สือ (sǔe), rising tone.
+
+กี่ (gìi) = how many
+
+	ก (ko kai) → mid-class consonant “g/k”.
+
+	ี (sara ii) → long “ii” vowel.
+
+	่ (mai ek) → tone mark → low tone.
+
+เล่ม (lêem) = classifier for books
+
+	ล (lo ling) → consonant “l”.
+
+	เ (sara e) → vowel “ee”.
+
+	่ (mai ek) → tone mark → low tone.
+
+	ม (mo ma) → final consonant “m”.
+
+คะ (ká) = polite particle (female, question)
+
+	ค (kho khwai) → consonant “kh”.
+
+	ะ (sara a, short) → short “a”.
+
+------- ******* -------
+
+ผม มี หนังสือ สาม เล่ม ครับ
+pǒm mii nǎng-sǔe sǎam lêem kráp
+I have three books.
+
+ผม (pǒm) = I (male speaker)
+
+	ผ (pho phueng) → high-class consonant, initial ph/p.
+
+	o (implicit short vowel o).
+
+	ม (mo ma) → final consonant m
+
+มี (mii) = to have
+
+	ม (mo ma) → m.
+
+	ี (sara ii) → long ii vowel.
+
+หนังสือ (nǎng-sǔe) = book
+
+	ห (ho hip) → silent, tone carrier.
+
+	น (no nu) → n.
+
+	ั (sara a) → short a.
+
+	ง (ngo ngu) → final ng.
+	➡ Tone: rising → nǎng.
+
+	ส (so suea) → s.
+
+	ื (sara ue) → long ue.
+
+	อ (o ang) → vowel support.
+	➡ Tone: rising → sǔe.
+
+สาม (sǎam) = three
+
+	ส (so suea) → s.
+
+	า (sara aa) → long aa.
+
+	ม (mo ma) → final m.
+
+เล่ม (lêem) = classifier for books
+
+	ล (lo ling) → l.
+
+	เ (sara e) → vowel ee.
+
+	่ (mai ek) → low tone mark.
+
+	ม (mo ma) → final m.
+
+ครับ (khráp) = polite particle (male)
+
+	ค (kho khwai) → kh.
+
+	ร (ro ruea) → r.
+
+	ั (sara a) → short a.
+
+	บ (bo baimai) → final p.
