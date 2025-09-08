@@ -1,0 +1,315 @@
+ฉัน หนัก สี่สิบเอ็ด กิโลกรัม
+chǎn nàk siì-sìp-èt gì-loo-gram
+I weigh forty-one kilograms.
+
+ฉัน (chǎn) = I
+
+	ฉ (cho ching) – high-class consonant, ch.
+
+	ั (sara a short).
+
+	น (no nu) – final consonant, n.
+
+หนัก (nàk) = heavy / to weigh
+
+	ห (ho hip) – high-class consonant, often silent when used as “tone carrier.”
+
+	น (no nu) – actual consonant n.
+
+	ั (sara a short).
+
+	ก (ko kai) – final consonant k.
+
+สี่สิบเอ็ด (sìi-sìp-èt) = forty-one
+
+	This is a compound number: สี่ (4) + สิบ (10) + เอ็ด (1).
+
+	สี่ (sìi) = four
+
+		ส (so suea) – consonant s.
+
+		ี (sara ii) – long vowel ii.
+
+		่ (mai ek tone mark) – low tone.
+
+	สิบ (sìp) = ten
+
+		ส (so suea) – consonant s.
+
+		ิ (sara i short).
+
+		บ (bo baimai) – final consonant p.
+
+	เอ็ด (èt) = one (only used after 20+)
+
+		เ (sara e).
+
+		ด (do dek) – final consonant t/d.
+
+	กิโลกรัม (gi-loo-gram) = kilogram
+
+		This is a loanword from English but written in Thai script.
+
+		กิ (gi)
+
+			ก (ko kai) – consonant g/k.
+
+			ิ (sara i short) – i.
+
+		โล (loo)
+
+			ล (lo ling) – consonant l.
+
+			โ (sara o long before consonant).
+
+			→ loo.
+
+		กรัม (gram)
+
+			ก (ko kai) – consonant g/k.
+
+			ร (ro ruea) – consonant r.
+
+			ั (sara a short).
+
+			ม (mo maa) – final consonant m.
+
+------- ******* -------
+
+ฉัน สูง หนึ่งร้อยห้าสิบแปด เซนติเมตร
+chǎn sǔung nùeng-rói-hâa-sìp-bpàet sen-tì-méet
+I am 158 centimeters tall.
+
+ฉัน (chǎn) = I
+
+	ฉ (cho ching) – high-class consonant, ch.
+
+	ั (sara a short).
+
+	น (no nu) – final consonant, n.
+
+สูง (sǔung) = tall / high
+
+	ส (so suea) – consonant s.
+
+	ู (sara uu long).
+
+	้ (mai tho tone mark) – rising tone.
+
+	ง (ngo ngu) – final consonant, ng.
+
+หนึ่ง (nùeng) = one
+
+	ห (ho hip) – silent tone carrier (high-class).
+
+	น (no nu) – consonant n.
+
+	ึ (sara ue short).
+
+	่ (mai ek tone mark) – low tone.
+
+	ง (ngo ngu) – final consonant ng.
+
+ร้อย (rói) = hundred
+
+	ร (ro ruea) – consonant r.
+
+	อ (o ang) – vowel carrier.
+
+	้ (mai tho tone mark) – rising tone.
+
+	ย (yo yak) – final consonant y.
+
+ห้า (hâa) = five
+
+	ห (ho hip) – high-class consonant h.
+
+	้ (mai tho tone mark) – falling tone.
+
+	า (sara aa long).
+
+สิบ (sìp) = ten
+
+	ส (so suea) – consonant s.
+
+	ิ (sara i short).
+
+	บ (bo baimai) – final consonant p.
+
+แปด (bpàet) = eight
+
+	แ (sara ae long).
+
+	ป (po pla) – consonant bp.
+
+	่ (mai ek tone mark) – low tone.
+
+	ด (do dek) – final consonant t.
+
+เซนติเมตร (sen-tì-mêet) = centimeter
+
+	เซน (sen)
+
+		เ (sara e).
+
+		ส (so suea).
+
+		น (no nu).
+
+	ติ (tì)
+
+		ต (to tao).
+
+		ิ (sara i short).
+
+		่ (mai ek tone mark).
+
+	เมตร (mêet)
+
+		เม = ม (mo maa) + เ (sara e).
+
+		ตร cluster = ต (to tao) + ร (ro ruea).
+
+		Tone mark ้ (mai tho) over เ.
+
+------- ******* -------
+
+ผู้หญิง คน นั้น สูง หนึ่งร้อยแปดสิบ เซนติเมตร
+pûu-yǐng kon nán sǔung nùeng-rói-bpàet -sìp sen-tì-méet
+That woman is 180 centimeters tall.
+
+ผู้หญิง (pûu-yǐng) = woman / female
+
+	ผ (pho phueng) – high-class consonant ph/p.
+
+	่ (mai ek tone mark) – low tone.
+
+	ู (sara uu long) – vowel uu.
+		
+		➡️ ผู้ = pûu = person (classifier for people).
+
+	ห (ho hip) – silent high-class consonant (tone carrier).
+
+	ญ (yo ying) – consonant y.
+
+	ิ (sara i short).
+
+	ง (ngo ngu) – final consonant ng.
+	
+		➡️ หญิง = yǐng = woman, female.
+
+คน (kon) = person / classifier for people
+
+	ค (kho khai) – consonant k.
+
+	น (no nu) – final consonant n.
+	
+		➡️ คน = kon = person.
+
+นั้น (nán) = that
+
+	น (no nu) – consonant n.
+
+	ั (sara a short).
+
+	้ (mai tho tone mark) – falling tone.
+
+	น (no nu) – final consonant n.
+	
+		➡️ นั้น = nán = that.
+
+สูง (sǔung) = tall
+
+	ส (so suea) – consonant s.
+
+	ู (sara uu long).
+
+	้ (mai tho tone mark) – rising tone.
+
+	ง (ngo ngu) – final consonant ng.
+	
+		➡️ สูง = sǔung = tall.
+
+หนึ่ง (nùeng) = one
+
+	ห (ho hip) – silent tone carrier.
+
+	น (no nu) – consonant n.
+
+	ึ (sara ue short).
+
+	่ (mai ek tone mark) – low tone.
+
+	ง (ngo ngu) – final consonant ng.
+	
+		➡️ หนึ่ง = nùeng = one.
+
+ร้อย (rói) = hundred
+
+	ร (ro ruea) – consonant r.
+
+	อ (o ang) – vowel carrier.
+
+	้ (mai tho tone mark) – rising tone.
+
+	ย (yo yak) – final consonant y.
+	
+		➡️ ร้อย = rói = hundred.
+
+แปด (bpàet) = eight
+
+	แ (sara ae long).
+
+	ป (po pla) – consonant bp.
+
+	่ (mai ek tone mark) – low tone.
+
+	ด (do dek) – final consonant t.
+	
+		➡️ แปด = bpàet = eight.
+
+สิบ (sìp) = ten
+
+	ส (so suea).
+
+	ิ (sara i short).
+
+	บ (bo baimai) – final consonant p.
+	
+		➡️ สิบ = sìp = ten.
+
+------- ******* -------
+
+เด็กผู้หญิง คนนั้น หนัก เท่าไหร่ คะ
+dèk-pûu-yǐng kon-nán nàk tâo-rài ká
+How much does that girl weigh?
+
+------- ******* -------
+
+เด็กผู้หญิง คนนั้น หนัก สามสิบห้า กิโลกรัม ครับ
+dèk-pûu-yǐng kon-nán nàk sǎam-sìp-hâa gì-loo-gram kráp
+That girl weighs thirty-five kg.
+
+------- ******* -------
+
+แล้วเด็กผู้ชาย คนนั้น ล่ะ คะ
+láeo-dèk-pûu-chaai kon-nán là ká
+What about that boy?
+
+------- ******* -------
+
+เด็กผู้ชาย คนนั้น หนัก ห้าสิบ กิโลกรัม ครับ
+dèk-pûu-chaai kon-nán nàk hâa-sìp gì-loo-gram kráp
+That boy weighs fifty kg.
+
+------- ******* -------
+
+เขา สูง เท่าไหร่ คะ
+kǎo sǔung tâo-rài ká
+How tall is he?
+
+------- ******* -------
+
+เขา สูง 165 เซนติเมตร ครับ
+kǎo sǔung nùeng-rói-hòk-sìp-hǎa sen-dtì-méet kráp
+He is 165 cm tall.

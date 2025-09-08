@@ -2,6 +2,24 @@
 sìp-èt
 eleven
 
+สิบ (sìp) = ten
+
+	ส (so suea) – consonant, class: high, sound: s.
+
+	ิ (sara i) – short vowel, sound: i. It sits above the consonant.
+
+	บ (bo baimai) – consonant, class: mid, here it is the final consonant with unreleased -p sound.
+
+เอ็ด (èt) = one
+
+	เ- (sara e) – vowel written before the consonant, sound: e.
+
+	ด (do dek) – consonant, class: mid, main sound: d.
+
+	** ็ (mai taikhu)** – a mark above, indicating the short version of the vowel. So instead of dee → e.
+
+	ต (to tao) – consonant, final position, unreleased -t sound.
+
 ------- ******* -------
 
 เด็กผู้หญิง คน นี้ อายุ สิบเอ็ด ปี
@@ -106,6 +124,22 @@ This girl is eleven years old.
 ยี่สิบ
 yîi-sìp
 twenty
+
+ยี่ (yîi)
+
+	ย (yo yak) – consonant, class: low, sound: y.
+
+	ี (sara ii) – long vowel, sound: ii.
+
+	่ (mai ek tone mark) – placed above, makes the syllable low tone
+
+สิบ (sìp) = ten
+
+	ส (so suea) – consonant, class: high, sound: s.
+
+	ิ (sara i) – short vowel, sound: i.
+
+	บ (bo baimai) – consonant, final -p sound
 
 ------- ******* -------
 
