@@ -1,0 +1,57 @@
+1. ก (ko kai)
+
+	Class: Mid-class
+
+	Sound: [k] unaspirated (like g in go or k in skin)
+
+	Example: ไก่ (gài) = chicken
+
+------- ******* -------
+
+2. ข (kho khai)
+
+	Class: High-class
+
+	Sound: [kʰ] aspirated kh
+
+	Example: ไข่ (khài) = egg
+
+------- ******* -------
+
+3. ฃ (kho khuat)
+
+	Class: High-class
+
+	Sound: [kʰ], obsolete (used rarely today, replaced by ข)
+
+	Example: Used in old texts.
+
+------- ******* -------
+
+4. ค (kho khwai)
+
+	Class: Low-class
+
+	Sound: [kʰ] aspirated kh
+
+	Example: ควาย (khwaai) = buffalo
+
+------- ******* -------
+
+5. ฅ (kho khon)
+
+	Class: Low-class
+
+	Sound: [kʰ], obsolete (replaced by ค)
+
+	Example: Rare, sometimes symbolic.
+
+------- ******* -------
+
+6. ฆ (kho ra-khang)
+
+	Class: Low-class
+
+	Sound: [kʰ] aspirated kh, but historically used for Sanskrit/Pali loanwords
+
+	Example: ระฆัง (ra-khang) = bell
